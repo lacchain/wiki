@@ -52,6 +52,10 @@ Among the relevant content of this repository:
 
 Description: this repository contains the docker container setup of a four-node network with the Block Explorer and the LACChain Prometheus & Grafana dashboard to track the progress of the chain for a Proof-Of-Authority example, allowing a DApp developer to use a simple network as an experimental testing ground for proof-of-concepts. Docker container configuration allows to run services and the network in POA mode and using the IBFT2 consensus algorithm.
 
+**Gas Relay Signer** [**https://github.com/lacchain/gas-relay-signer**](https://github.com/lacchain/gas-relay-signer)
+
+Description: this repository contains the source code for the gas distribution model that enables quantum-safe multi-signatures and the three goals intended to achieve in the implementation: 1. To enable a dynamic, functional, and easy to adopt solution for the distribution of gas in the LACChain (Besu) network, 2. To track and establish liabilities for the nodes that broadcast transactions to the network, and to verify that only writer nodes that are permissioned are broadcasting transactions, 3. To make the network quantum-safe.
+
 ## Copyright 2020 LACChain
 
 Licensed under the Apache License, Version 2.0 (the "License");
