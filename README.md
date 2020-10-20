@@ -20,7 +20,7 @@ The layers are built as the figure describes:
 
 ### 2.1 LACChain DLT repositories 
 
-**Besu-Network** **-** [**LINK**](https://github.com/lacchain/besu-network)
+**Besu-Network** **-** [**https://github.com/lacchain/besu-network**](https://github.com/lacchain/besu-network)
 
 Description: this repository contains all the information on how to deploy nodes on the LACChain Besu Network, including information about the network’s topology, the permissioning process, how to deploy smart contracts, how to deploy applications, and recommendations on decentralized applications architecture.  
 
