@@ -68,6 +68,30 @@ Description: this repository contains the docker compose images for a minimal in
 
 Description: this repository contains the docker container images and the docker compose configuration file for a proof of concept to enable TLS encapsulation of the communication between two Hyperledger Besu nodes that are using the RPLx protocol.
 
+**Open Quantum Safe OpenSSL Debian files** **-** [**https://github.com/lacchain/oqs-openssl-debian**](https://github.com/lacchain/oqs-openssl-debian)
+
+Description: this repository contains the files for generating Debian distribution packages for the OpenSSL fork that adds quantum-safe key exchange and authentication algorithms.
+
+**LibOQS Debian files** **-** [**https://github.com/lacchain/liboqs-debian**](https://github.com/lacchain/liboqs-debian)
+
+Description: this repository contains the docker container images and files for generating Debian distribution packages with the LibOQS library. LibOQS is an open source C library for quantum-safe cryptographic algorithms.
+
+**Besu Health Check** **-** [**https://github.com/lacchain/besu-healthcheck**](https://github.com/lacchain/besu-healthcheck)
+
+Description: this repository contains the docker container images and the docker compose configuration files for the Besu node health check service the enables users to test interactions with a Besu node using the RPC protocol.
+
+**Node Health Check** **-** [**https://github.com/lacchain/node-health-check**](https://github.com/lacchain/node-health-check)
+
+Description: this repository contains the source code for the node-health-check service that supports guaranteeing the availability of the Orion transaction manager used in the LACChain Besu network by writer nodes that execute private transactions. The source code aims to work hand-in-hand with the operating system, if for some reason the Orion service crashes, the node-health-check service restarts it.
+
+**LACChain CLI** **-** [**https://github.com/lacchain/lacchain-cli**](https://github.com/lacchain/lacchain-cli)
+
+Description: this repository contains the source code for a command line client to operate a LACChain node in the LACChain Besu network.
+
+**Transaction per second throughput in Besu network** **-** [**https://github.com/lacchain/Ethereum-Benchmark**](https://github.com/lacchain/Ethereum-Benchmark)
+
+Description: this repository contains the source code, smart contracts, docker container images and docker compose configuration for stress test suite that enables determining: a) How many transactions (with and without data) can be stored on each block, b) Establish a relation between gas and data for each transaction, and c) Expose a network node to different scenarios with different transaction rate and different amount of gas used per transaction at some time interval.
+
 ## Copyright 2020 LACChain
 
 Licensed under the Apache License, Version 2.0 (the "License");
