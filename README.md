@@ -48,7 +48,7 @@ Among the relevant content of this repository:
 
 * Recommendations for decentralized applications architecture. 
 
-**LACChain Network Docker** [** https://github.com/lacchain/lacchain-docker **]
+**LACChain Network Docker** [**https://github.com/lacchain/lacchain-docker**](https://github.com/lacchain/lacchain-docker)
 
 Description: this repository contains the docker container setup of a four-node network with the Block Explorer and the LACChain Prometheus & Grafana dashboard to track the progress of the chain for a Proof-Of-Authority example, allowing a DApp developer to use a simple network as an experimental testing ground for proof-of-concepts. Docker container configuration allows to run services and the network in POA mode and using the IBFT2 consensus algorithm.
 
