@@ -56,6 +56,18 @@ Description: this repository contains the docker container setup of a four-node 
 
 Description: this repository contains the source code for the gas distribution model that enables quantum-safe multi-signatures and the three goals intended to achieve in the implementation: 1. To enable a dynamic, functional, and easy to adopt solution for the distribution of gas in the LACChain (Besu) network, 2. To track and establish liabilities for the nodes that broadcast transactions to the network, and to verify that only writer nodes that are permissioned are broadcasting transactions, 3. To make the network quantum-safe.
 
+**EOSIO/LatamLink Testnet Node installation** **-** [**https://github.com/lacchain/eosio-network**](https://github.com/lacchain/eosio-network)
+
+Description: this repository contains the files to setup an EOSIO-based testnet. LatamLink is a voluntary regional alliance led by Latin American technology companies interested in the development of the LACChain network ecosystem.
+
+**IronBridge OpenSSL Engine** **-** [**https://github.com/lacchain/openssl-pqe-engine**](https://github.com/lacchain/openssl-pqe-engine)
+
+Description: this repository contains the docker compose images for a minimal installation and usage of CQC’s IronBridge post-quantum entropy engine for OpenSSL connections among nodes on the LACChain network.
+
+**TLS connections encapsulating Hyperledger Besu RPLx communication** **-** [**https://github.com/lacchain/rlpx-tls-tunnel-poc**](https://github.com/lacchain/rlpx-tls-tunnel-poc)
+
+Description: this repository contains the docker container images and the docker compose configuration file for a proof of concept to enable TLS encapsulation of the communication between two Hyperledger Besu nodes that are using the RPLx protocol.
+
 ## Copyright 2020 LACChain
 
 Licensed under the Apache License, Version 2.0 (the "License");
