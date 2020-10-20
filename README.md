@@ -17,7 +17,7 @@ The different layers of the LACChain ecosystem are:
 **LACChain TFM:** tokenized fiat money, minted by authorized financial institutions, regulatory compliant. KYC and AML process. E-money token standard.  
 
 The layers are built as the figure describes: 
-!(https://github.com/lacchain/lacchain-id/blob/master/Internet_of_value.png "Internet of Value")
+![alt text](https://github.com/lacchain/lacchain-id/blob/master/Internet_of_value.png "Internet of Value")
 
 ### 2.1 LACChain DLT repositories 
 
