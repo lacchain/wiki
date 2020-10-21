@@ -1,8 +1,8 @@
-# LACChain WIKI
+# LACChain Wiki
 
 ## Introduction 
 
-This document lists and describes the LACChain network Git repositories. All the repositories of the LACChain Alliance are licensed with Apache license version 2.0.
+LACChain Wiki lists and describes the LACChain network Git repositories. All the repositories of the LACChain Alliance are licensed with Apache license version 2.0.
 
 ## Repository guide 
 
