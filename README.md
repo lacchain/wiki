@@ -101,6 +101,8 @@ Description: this repository is a fork from PegaSysEng/permissioning-smart-contr
 
 Description: this repository is created as part of the relationship between the LACChain Alliance and the Brazilian Development Bank - BNDES to deploy a Public-Permissioned Blockchain Network maintained by both parts in order to develop and execute a different type of projects.
 
+### 2.2 LACChain ID repositories
+
 **LACChain Mailbox** **-** [**https://github.com/lacchain/id-mailbox**](https://github.com/lacchain/id-mailbox)
 
 Description: this repository contains the smart contracts and an API of the LACChain Mailbox, that enables an email-like messaging for third-party issued Verifiable Credentials (VCs). Using a secure and controlled server to store encrypted VCs, LACChain Mailbox delivers a simple, secure, messaging experience for sending and receiving Verifiable Credentials with total privacy using the DID resolution functionality.
@@ -138,6 +140,8 @@ Description: this repository contains the source code and the docker container i
 **Hashing service** **-** [**https://github.com/lacchain/hashing-service**](https://github.com/lacchain/hashing-service)
 
 Description: this repository contains the source code for the LACChain Hashing service that can hash any type of file, from applications to documents and media. Hashing a file results in a unique and irreversible identifier. If this identifier is registered in an immutable network, as a blockchain ledger, the owner of the file can prove at any time afterwards that the file was not modified. This hashing service signs the hash to guarantee that the file was hashed by itself and sends it to https://github.com/lacchain/credential-server to write it down in the LACChain blockchain network.
+
+### 2.3 LACChain TFM repositories
 
 **Citi API Proxy** **-** [**https://github.com/lacchain/citi-api-proxy**](https://github.com/lacchain/citi-api-proxy)
 
