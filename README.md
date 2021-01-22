@@ -137,6 +137,11 @@ Description: this repository contains the source code and docker container image
 
 Description: this repository contains the source code and the docker container images for the Credential Provider Server that can generate, sign, validate, update, and revoke credentials. The credentials follow the standard Verifiable Credentials (VC) by the W3C. Credentials can be used to contain information about anything. Also, they can be signed by the issuer, and refer to a subject. Therefore, if the issuer is trusted by a third party, this third party can trust information about the subject by verifying the validity of the credential, without having to ask the issuer. When the previous is leveraged, and the subject is in control of their credentials, we can build identity models that fall into the category of self-sovereign identity (SSI).
 
+**Academy Credential Issuance** **-** [**https://github.com/lacchain/academy-vc**](https://github.com/lacchain/academy-vc)
+
+Description: 
+LACChain VC is a Proof-Of-Concept application that allow issuance and on-chain verification of Verifiable Credentials (VC) following the W3C data model, EIP-712 and EIP-1812 for credential signatures and on-chain claims verification respectively.
+
 **Hashing service** **-** [**https://github.com/lacchain/hashing-service**](https://github.com/lacchain/hashing-service)
 
 Description: this repository contains the source code for the LACChain Hashing service that can hash any type of file, from applications to documents and media. Hashing a file results in a unique and irreversible identifier. If this identifier is registered in an immutable network, as a blockchain ledger, the owner of the file can prove at any time afterwards that the file was not modified. This hashing service signs the hash to guarantee that the file was hashed by itself and sends it to https://github.com/lacchain/credential-server to write it down in the LACChain blockchain network.
