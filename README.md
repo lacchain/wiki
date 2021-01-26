@@ -77,6 +77,14 @@ Description: this repository contains the files for generating Debian distributi
 
 Description: this repository contains the docker container images and files for generating Debian distribution packages with the LibOQS library. LibOQS is an open source C library for quantum-safe cryptographic algorithms.
 
+**LibOQS Java bindings** **-** [**https://github.com/lacchain/liboqs-java/**](https://github.com/lacchain/liboqs-java/)
+
+Description: this repository contains a fork of [open-quantum-safe/liboqs-java](https://github.com/open-quantum-safe/liboqs-java) for publishing Apache Maven packages.
+
+**HyperLedger Besu fork**-** [**https://github.com/lacchain/besu**](https://github.com/lacchain/besu)
+
+Description: this repository containes a Hyperledger Besu 20.10.3 fork which adds a precompiled contract for validating Falcon-512 signatures.
+
 **Besu Health Check** **-** [**https://github.com/lacchain/besu-healthcheck**](https://github.com/lacchain/besu-healthcheck)
 
 Description: this repository contains the docker container images and the docker compose configuration files for the Besu node health check service the enables users to test interactions with a Besu node using the RPC protocol.
