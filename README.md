@@ -81,7 +81,7 @@ Description: this repository contains the docker container images and files for 
 
 Description: this repository contains a fork of [open-quantum-safe/liboqs-java](https://github.com/open-quantum-safe/liboqs-java) for publishing Apache Maven packages.
 
-**HyperLedger Besu fork**-** [**https://github.com/lacchain/besu**](https://github.com/lacchain/besu)
+**HyperLedger Besu fork** **-** [**https://github.com/lacchain/besu**](https://github.com/lacchain/besu)
 
 Description: this repository containes a Hyperledger Besu 20.10.3 fork which adds a precompiled contract for validating Falcon-512 signatures.
 
