@@ -168,7 +168,7 @@ Description: this repository contains the source code for the front-end of the C
 
 Description: this repository contains the back-end components for the Cross-Border Payments application that manages Users, Accounts and Movements for the different functionalities. The back-end comprises the docker compose image, an API, the Eventeum component that listens to the LACChain DLT events, the Java source code that powers the API, and a PostgreSQL database.
 
-## Copyright 2020 LACChain
+## Copyright 2021 LACChain
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
