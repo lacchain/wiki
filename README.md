@@ -111,6 +111,10 @@ Description: this repository is created as part of the relationship between the 
 
 ### 2.2 LACChain ID repositories
 
+**LACChain DID** **-** [**https://github.com/lacchain/lacchain-did**](https://github.com/lacchain/lacchain-did)
+
+Description: this repository contains the specification for LACChain DID method based on ethr and conforms to ERC-1056 that is intended to use Ethereum addresses as fully self-managed Decentralized Identifiers (DIDs), it allows you to easily create and manage keys for these identities. It also lets you sign standards compliant JSON Web Tokens (JWT).
+
 **LACChain Mailbox** **-** [**https://github.com/lacchain/id-mailbox**](https://github.com/lacchain/id-mailbox)
 
 Description: this repository contains the smart contracts and an API of the LACChain Mailbox, that enables an email-like messaging for third-party issued Verifiable Credentials (VCs). Using a secure and controlled server to store encrypted VCs, LACChain Mailbox delivers a simple, secure, messaging experience for sending and receiving Verifiable Credentials with total privacy using the DID resolution functionality.
