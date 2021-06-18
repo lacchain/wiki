@@ -61,11 +61,23 @@ Description: this repository contains the source code for the gas distribution m
 
 Description: this repository contains the files to setup an EOSIO-based testnet. LatamLink is a voluntary regional alliance led by Latin American technology companies interested in the development of the LACChain network ecosystem.
 
-**IronBridge OpenSSL Engine** **-** [**https://github.com/lacchain/openssl-pqe-engine**](https://github.com/lacchain/openssl-pqe-engine)
+**Remote PostQuantum OpenSSL RNG Engine** **-** [**https://github.com/lacchain/openssl-pqe-engine**](https://github.com/lacchain/openssl-pqe-engine)
 
-Description: this repository contains the docker compose images for a minimal installation and usage of CQC’s IronBridge post-quantum entropy engine for OpenSSL connections among nodes on the LACChain network.
+Description: this repository contains an OpenSSL engine to obtain entropy from a remote server through a post quantum safe protocol.
 
-**TLS connections encapsulating Hyperledger Besu RPLx communication** **-** [**https://github.com/lacchain/rlpx-tls-tunnel-poc**](https://github.com/lacchain/rlpx-tls-tunnel-poc)
+**HTTP PostQuantum Entropy server provider** **-** [**https://github.com/lacchain/pqe-rpc-server-ng**](https://github.com/lacchain/pqe-rpc-server-ng)
+
+Description: this repository contains a server to deliver entropy according a post quantum safe protocol.
+
+**Post Quantum Meta-Transactions relay signer** **-** [**https://github.com/lacchain/pq-relay-signer**](https://github.com/lacchain/pq-relay-signer)
+
+Description: this repository contains an application that relays a transaction to a destination contract adding a Falcon-512 signature.
+
+**Post Quantum permissioning setup** **-** [**https://github.com/lacchain/pq-permissioning-setup**](https://github.com/lacchain/pq-permissioning-setup)
+
+Description: this repository contains a Truffle project to configure Post Quantum permissioning for a [permissioned Hyperledger Besu network](https://besu.hyperledger.org/en/stable/Tutorials/Permissioning/Getting-Started-Onchain-Permissioning/) and a dummy relay contract. 
+
+**PoC for encapsulating Hyperledger Besu RPLx communication through PQ TLS connections** **-** [**https://github.com/lacchain/pq-tls-rlpx-tunnel-poc**](https://github.com/lacchain/pq-tls-rlpx-tunnel-poc)
 
 Description: this repository contains the docker container images and the docker compose configuration file for a proof of concept to enable TLS encapsulation of the communication between two Hyperledger Besu nodes that are using the RPLx protocol.
 
