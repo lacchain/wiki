@@ -111,13 +111,25 @@ Description: this repository is created as part of the relationship between the 
 
 ### 2.2 LACChain ID repositories
 
-**LACChain DID** **-** [**https://github.com/lacchain/lacchain-did**](https://github.com/lacchain/lacchain-did)
+**LACChain DID Registry** **-** [**https://github.com/lacchain/lacchain-did-registry**](https://github.com/lacchain/lacchain-did-registry)
 
-Description: this repository contains the specification for LACChain DID method based on ethr and conforms to ERC-1056 that is intended to use Ethereum addresses as fully self-managed Decentralized Identifiers (DIDs), it allows you to easily create and manage keys for these identities. It also lets you sign standards compliant JSON Web Tokens (JWT).
+Description: this repository contains the Smart Contracts for LACChain DID method, that is intended to use Ethereum addresses as fully self-managed Decentralized Identifiers (DIDs), it allows you to easily create and manage keys for these identities. 
 
-**LACChain Mailbox** **-** [**https://github.com/lacchain/id-mailbox**](https://github.com/lacchain/id-mailbox)
+**LACChain DID NodeJS Library** **-** [**https://github.com/lacchain/lacchain-did-js**](https://github.com/lacchain/lacchain-did-js)
 
-Description: this repository contains the smart contracts and an API of the LACChain Mailbox, that enables an email-like messaging for third-party issued Verifiable Credentials (VCs). Using a secure and controlled server to store encrypted VCs, LACChain Mailbox delivers a simple, secure, messaging experience for sending and receiving Verifiable Credentials with total privacy using the DID resolution functionality.
+Description: this repository contains an implementation of LACChain DID Method in NodeJS. It provides the necessary methods and functions to interact with a DID and resolve a DID Document without the need to directly call the smart contracts.
+
+**LACChain Mailbox** **-** [**https://github.com/lacchain/mailbox**](https://github.com/lacchain/mailbox)
+
+Description: this repository contains the LACChain Mailbox, which is a secure and private system for the exchange of messages, VCs, and VPs based on the DIDComm Messaging Specification. It is a controlled by a centralized server that allows entities identified by a DID to send and receive messages.
+
+**LACChain Universal Resolver** **-** [**https://github.com/lacchain/universal-resolver**](https://github.com/lacchain/universal-resolver)
+
+Description: this repository contains the Universal DID Resolver, which implements different DID methods to resolve de DID Document. This project is currently deployed in the https://resolver.lacchain.net, but also can be deployed using the Docker image.
+
+**LACChain Verifiable Credentials Registry** **-** [**https://github.com/lacchain/vc-contracts**](https://github.com/lacchain/vc-contracts)
+
+Description: this repository contains the smart contracts based on EIP-712 and EIP-1812 for Structured Data Types and Verifiable Claims respectively, to perform the registration and verification process of Verifiable Credentials on-chain.
 
 **LACChain DNS** **-** [**https://github.com/lacchain/lacchain-dns**](https://github.com/lacchain/lacchain-dns)
 
