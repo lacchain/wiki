@@ -139,13 +139,21 @@ Description: this repository contains the LACChain Mailbox, which is a secure an
 
 Description: this repository contains the Universal DID Resolver, which implements different DID methods to resolve de DID Document. This project is currently deployed in the https://resolver.lacchain.net, but also can be deployed using the Docker image.
 
-**LACChain Verifiable Credentials Registry** **-** [**https://github.com/lacchain/vc-contracts**](https://github.com/lacchain/vc-contracts)
+**LACChain Verifiable Credentials On-Chain Verification** **-** [**https://github.com/lacchain/vc-contracts**](https://github.com/lacchain/vc-contracts)
 
 Description: this repository contains the smart contracts based on EIP-712 and EIP-1812 for Structured Data Types and Verifiable Claims respectively, to perform the registration and verification process of Verifiable Credentials on-chain.
+
+**LACChain On-Chain Public Key Directory** **-** [**https://github.com/lacchain/lacchain-pkd**](https://github.com/lacchain/lacchain-pkd)
+
+Description: this repository is an implementation of Root-of-Trust proposal of LACChain ID Stack. The smart contracts helps to build a Root of Trust structure, by deploying a Public Key Directory (PKD) and a subset of Trusted List (TL) recursively to establish a hierarchy of entities.
 
 **LACChain DNS** **-** [**https://github.com/lacchain/lacchain-dns**](https://github.com/lacchain/lacchain-dns)
 
 Description: this repository contains a smart contract and a decentralized application for the LACChain DNS that acts as a Decentralized Name Service that helps to maintain a registry of verified entities through a set of certificates issued by Certification Authorities (CA) associated with a DID (ethr). Certificates will be used to register and validate the entity in an Ethereum Smart contract, which we called: DNSRegistry. The provided DApp controls the entities registered in the DNSRegistry (listing, registration, and revocation).
+
+**LACChain Services Authentication** **-** [**https://github.com/lacchain/service-authentication**](https://github.com/lacchain/service-authentication)
+
+Description: this repository is the LACChain service authentication methods that are based on the use of a DID as an identity verification mechanism, using the public keys of a DID document to prove the identity of the entity that is in control of that DID.
 
 **Post-Quantum Certificates** **-** [**https://github.com/lacchain/pq-cert**](https://github.com/lacchain/pq-cert)
 
