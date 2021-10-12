@@ -1,12 +1,32 @@
 # LACChain Wiki
 
+
+
+## History
+
+LACChain is the Global Alliance for the Development of the Blockchain Ecosystem in Latin America and the Caribbean. This Alliance was founded by the [Innovation Lab (the IDB Lab)](https://bidlab.org/en) of the [Inter-American Development Bank (IDB)](https://www.iadb.org/en/about-us/overview). 
+
+## Purpose
+
+
+## Ecosystem
+
+## Frameworks
+
+## Infrastructure
+
+## Tools
+
+## LACNet (the Underlying Orchestration Vehicle)
+
+
 ## Introduction 
 
-LACChain Wiki lists and describes the LACChain network Git repositories. All the repositories of the LACChain Alliance are licensed with Apache license version 2.0.
+
 
 ## Repository guide 
 
-The following section describes the LACChain Git repositories and their corresponding layers in the LACChain ecosystem.  
+This Section describes the LACChain network Git repositories. All the repositories of the LACChain Alliance are licensed with Apache license version 2.0. Repositories are classified into DLT (the blockchain layer), ID (the ID layer), and TM (the digital money layer).
 
 The different layers of the LACChain ecosystem are: 
 
@@ -14,7 +34,7 @@ The different layers of the LACChain ecosystem are:
 
 **LACChain ID:** self-sovereign identity, decentralized identifiers (DIDs), verifiable credentials (VCs), verifiable presentations, digital wallets, CAs, trust lists, regulation, data protection, trust frameworks.  
 
-**LACChain TFM:** tokenized fiat money, minted by authorized financial institutions, regulatory compliant. KYC and AML process. E-money token standard.  
+**LACChain TM:** tokenized fiat money, minted by authorized financial institutions, regulatory compliant. KYC and AML process. E-money token standard.  
 
 The layers are built as the figure describes: 
 ![alt text](https://github.com/lacchain/lacchain-id/blob/master/Internet_of_value.png "Internet of Value")
