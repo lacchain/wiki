@@ -1,17 +1,60 @@
 # LACChain Wiki
 
-
-
 ## History
 
-LACChain is the Global Alliance for the Development of the Blockchain Ecosystem in Latin America and the Caribbean. This Alliance was founded by the [Innovation Lab (the IDB Lab)](https://bidlab.org/en) of the [Inter-American Development Bank (IDB)](https://www.iadb.org/en/about-us/overview). 
+LACChain is the Global Alliance for the Development of the Blockchain Ecosystem in Latin America and the Caribbean. This Alliance was founded in 20219 by the Innovation Lab of the Inter-American Development Bank (the IDB Lab). As of October of 2021, there are more than 50 entities working with blockchain technology that have signed an MOU with the IDB Lab to contribute to the LACChain Alliance. 
+
+* [IDB](https://www.iadb.org/en/about-us/overview)
+* [IDB Lab](https://bidlab.org/en)
+* [LACChain website](https://www.lacchain.net/home)
+* [LACChain Partners](https://www.lacchain.net/alliance)
 
 ## Purpose
 
+The LACChain Global Alliance was created with the vision that blockchain technology could have a transformative impact in different sectors and industries, but also under the impression that there were many silos in the ecosystem, scarcity of information, regulatory uncertaintly, very expensive costs related to the use of the technology, a very concerning carbon footprint, and thousands of blockchain networks that were not suitable for the scalability of government and enterprise use cases. In order to address this issues and enable the use of blockchain technology in Latin America and the Caribbean in a way that empowers governments, private sector, universities, multilaterals, and enterpreneurs, but mostly **people**. 
+
+With this purpose, LACChain has:
+
+* Developed learning materials (including courses, articles, papers, books, videos, podcasts, trainings, tools, and applications).
+* Developed frameworks that set the basis for government and enterprise blockchain networks.
+* Built national and sectorial ecosystems in Latin America and the Caribbean.
+* Created a global permissioned public blockchain infrastructure accessible for everyone, with no transaction fees.
+
+## Academy
+
+LACChain Academy provides open content to educate and raise awareness about blockchain and structures its content into:
+
+* [Videos](https://www.lacchain.net/academic-videos)
+* [Courses](https://www.lacchain.net/certifiable-courses)
+* [Publications](https://www.lacchain.net/academic-publications)
 
 ## Ecosystem
 
+There are many different ways to participate in the LACChain Ecosystem. You can:
+
+* [Become a partner](https://www.lacchain.net/contact)
+* [Announce a bidding](https://www.lacchain.net/contact)
+* [Announce a finding opportunity](https://www.lacchain.net/contact)
+* [Spread your community, entity or event](https://www.lacchain.net/contact)
+* [Promote your project, platform, or application deployed on top of a LACChain Network](https://www.lacchain.net/contact)
+* [Announce a blockchain event](https://www.lacchain.net/contact)
+
+You can also see current communities, entities, and events related to blockchain technology in Latin America and the Caribbean.
+
+* [Communities](https://www.lacchain.net/ecosystem)
+* [Entities](https://www.lacchain.net/ecosystem)
+* [Events](https://www.lacchain.net/ecosystem)
+* [Projects](https://www.lacchain.net/use-cases)
+* [Bidding offerings](https://www.lacchain.net/use-cases)
+* [Investment opportunities](https://github.com/lacchain/wiki/edit/main/README.md)
+
 ## Frameworks
+
+LACChain Frameworks are focused on three areas: the blockchain layer
+The [Blockchain Framework]() - To be released on October 18th
+
+* [ID Framework]() - To be released on October 18th
+* 
 
 ## Infrastructure
 
