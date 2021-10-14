@@ -70,23 +70,40 @@ Additionally, there are several open-source resources and tools available:
 
 ### LACChain ID
 
-LACChain ID is ...
+LACChain ID is the blockchain-based SSI layer developed by the LACChain Global Alliance. The main pieces released on this layer are:
 
-* [LACChain ID Framework]() -
-* [LACChain ID Open-Source Stack for Ethereum-based Networks]() -
-* [Full list of repositories related to the SSI layer](https://github.com/lacchain/wiki/blob/main/repository_index_id_layer.md) - 
-* [LACChain did:lac method]() -
-* [LACChain Universal Resolver]() -
-* [LACChain Mailbox]() -
-* [Electronic authentication based on DIDConnect]() -
-* [On-chain Roots of Trust and Trusted Lists]() -
+Two books explaining Self-Sovereign Identity for all audiences and covering the legal aspects related to it in Latin-America and the Caribbean.
 
+* [The future of Identity: Self-sovereignty, digital wallets, and blockchain](https://publications.iadb.org/en/self-sovereign-identity-future-identity-self-sovereignity-digital-wallets-and-blockchain)
+* [Regulacion de blockchain e identidad digital en America Latina](https://publications.iadb.org/es/regulacion-de-blockchain-e-identidad-digital-en-america-latina)
+
+A framework consisting on a set of recommendations to build multipurpose, scalable, interoperable, secure, and privacy-preserving digital credentials and wallets.
+
+* [LACChain ID Framework]()
+
+A open-source full stack that allows to implement SSI solutions compliant with the LACChain ID Framework on top of Ethereum-based networks.
+
+* [LACChain ID Open-Source Stack for Ethereum-based Networks](https://github.com/lacchain/besu-id) 
+* [LACChain did:lac method](https://github.com/lacchain/lacchain-did-js)
+* [LACChain Universal Resolver](https://github.com/lacchain/universal-resolver)
+* [LACChain Mailbox](https://github.com/lacchain/id-mailbox) 
+* [Electronic authentication based on DIDConnect](https://github.com/lacchain/service-authentication) 
+* [On-chain Roots of Trust and Trusted Lists](https://github.com/lacchain/lacchain-pkd) 
+
+Additional open-source resources:
+
+* [Full list of repositories related to the SSI layer](https://github.com/lacchain/wiki/blob/main/repository_index_id_layer.md) 
 
 ### LACChain Tokenized Money
 
-LACChain Tokenized Money is ...
+LACChain Tokenized Money is the blockchain-based Tokenized Money layer developed by the LACChain Global Alliance. This layer is still at an early stage. The main pieces released on this layer are paper presenting the PoC accomplished by the Inter-American Development Bank and Citi Bank to make cross border payments between the US and the Caribbean using money tokenized in the LACChain Network and the code related to the development.
 
-* [Full list of repositories related to the SSI layer](https://github.com/lacchain/wiki/blob/main/repository_index_id_layer.md)
+* [Paper - Cross border payments with blockchain](https://publications.iadb.org/en/cross-border-payments-blockchain)
+* [Code - PoC between IDB and Citi on cross border payments](https://github.com/lacchain/wiki/blob/main/repository_index_id_layer.md)
+
+## LACNet - Underlying Orchestration Vehicle
+
+LACChain has created a non-profit entity based in Uruguay to orchestrate the LACChain mainnets ensuring technical and financial sustainability. The founders of this entity are [LACNIC](https://www.lacnic.net/), [Red Clara](https://www.redclara.net/index.php/en/), and the [IDB Lab](https://bidlab.org/en) as neutral and regional entities. More information will be added soon. Mainnets will be launched in 2022.
 
 ## Academy
 
@@ -126,7 +143,6 @@ LACChain is available through different channels, including website, social netw
 * [LACChain Medium](https://lacchain.medium.com/)
 * [LACChain Vimeo](https://vimeo.com/lacchain)
 * [LACChain Github](https://github.com/lacchain)
-
 
 ## Copyright 2021 LACChain
 
