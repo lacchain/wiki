@@ -1,6 +1,6 @@
 # LACCHAIN TOPOLOGY
 
-The purpose of this documentation is to provide an overview of the LACCHAIN Besu Network's topology, architecture, communication protocols and security.
+The purpose of this documentation is to provide an overview of the LACChain Networks's topology.
 
 ## Topology
 
