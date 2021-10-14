@@ -1,4 +1,4 @@
-### LACChain ID Repositories
+# LACChain ID Repositories
 
 **LACChain DID Registry** **-** [**https://github.com/lacchain/lacchain-did-registry**](https://github.com/lacchain/lacchain-did-registry)
 
