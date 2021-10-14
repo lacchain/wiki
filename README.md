@@ -29,6 +29,8 @@ LACChain Frameworks are sets of recommendations that encompases standards, proto
 
 LACChain has enabled regional permissoned public blockchain infrastructures that are open and accessible for any entity in the world. The LACChain infrastructure includes networks build on [Hyperledger Besu technology (an open-source Ethereum client)](https://www.hyperledger.org/use/besu) and networks build on [EOSIO technology](https://eos.io/). In order to access the networks, it is necessary to follow the permissioning process. This process vary depending if the network to join is a Testnet, a Pro-Testnet, or a Mainnet. 
 
+### Accessing the Networks
+
 For Testnets and Protestnets:
 
 * [Permissioning process for LACChain Testnets and Protestnets](https://github.com/lacchain/wiki/blob/main/permissioning_process.md)
