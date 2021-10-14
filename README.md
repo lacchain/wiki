@@ -1,1 +1,1 @@
-Welcome to the LACChain Wiki. Please go to the [WIKI Section](https://github.com/lacchain/wiki/wiki).
+Welcome to the LACChain Wiki. Please go to the [WIKI Area](https://github.com/lacchain/wiki/wiki).
