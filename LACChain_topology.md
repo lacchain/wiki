@@ -8,7 +8,7 @@ The nodes of LACChain networks can be classified into two groups, according to t
 
 In the following image we can see the topology and connections between the different types of nodes.
 
-![LACChain Topology](wiki/LACChain_topology.png)
+![LACChain Topology](wiki/LACChain_topology.PNG)
 
 ### Core nodes
 
