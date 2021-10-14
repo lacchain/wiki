@@ -2,23 +2,58 @@
 
 ## History
 
-LACChain is the Global Alliance for the Development of the Blockchain Ecosystem in Latin America and the Caribbean. This Alliance was founded in 20219 by the Innovation Lab of the Inter-American Development Bank (the IDB Lab). As of October of 2021, there are more than 50 entities working with blockchain technology that have signed an MOU with the IDB Lab to contribute to the LACChain Alliance. 
+LACChain is the Global Alliance for the Development of the Blockchain Ecosystem in Latin America and the Caribbean. This Alliance was founded in 20219 by the Innovation Lab of the Inter-American Development Bank (the IDB Lab). As of October of 2021, there are more than 50 entities working with blockchain technology that have signed an MOU with the IDB Lab to contribute to the LACChain Alliance.
 
 * [IDB](https://www.iadb.org/en/about-us/overview)
 * [IDB Lab](https://bidlab.org/en)
-* [LACChain website](https://www.lacchain.net/home)
 * [LACChain Partners](https://www.lacchain.net/alliance)
 
-## Purpose
+## Purpose 
 
 The LACChain Global Alliance was created with the vision that blockchain technology could have a transformative impact in different sectors and industries, but also under the impression that there were many silos in the ecosystem, scarcity of information, regulatory uncertaintly, very expensive costs related to the use of the technology, a very concerning carbon footprint, and thousands of blockchain networks that were not suitable for the scalability of government and enterprise use cases. In order to address this issues and enable the use of blockchain technology in Latin America and the Caribbean in a way that empowers governments, private sector, universities, multilaterals, and enterpreneurs, but mostly **people**. 
 
-With this purpose, LACChain has:
+LACChain aims to enable the **Internet of Value**. The Internet, as a network to connect people and entities remotely, in its current form does not allow for 
+transferring both digital (e.g., a digital certificate or a digital currency) and physical (e.g., a painting, a car, or a house) assets electronically with full trust between unknown parties unless there is a trusted third-party involved. We believe the combination of the current Internet with a new robust and reliable **blockchain layer** properly provided with **digital identity** and **digital money** platforms can achieve full trust between remote and unknown parties without intermediaries, leading to a new digital era of digital services and transactions, and constituting the Internet of Value.
 
-* Developed learning materials (including courses, articles, papers, books, videos, podcasts, trainings, tools, and applications).
-* Developed frameworks that set the basis for government and enterprise blockchain networks.
-* Built national and sectorial ecosystems in Latin America and the Caribbean.
-* Created a global permissioned public blockchain infrastructure accessible for everyone, with no transaction fees.
+## Frameworks
+
+LACChain Frameworks are sets of recommendations that encompases standards, protocols, technology, rules, policies, and agreements to enable the three layers of the Internet of Value: permissioned public blockchain networks, digital identity, and digital money.
+
+* [LACChain Framework for Permissioned Public Blockchain Networks]() - A set of recommendations to build neutral, secure, multipurpose, multiprotocol, regulatory compliant, and quantum-resistant blockchain networks. Presents and discusses the concepts of operation, orchestration, and governance. Addresses topology, routing and connections, block generation, publicness, permissioning, resource distribution, node signatures, quantum-resistance, scalability, monitoring and evaluation, decentralized storage, and private channels. It also tackles regulatory matters.
+
+* [LACChain Framework for Blockchain-Based Self-Sovereign Identity]() - A set of recommendations to build multipurpose, scalable, interoperable, secure, and privacy-preserving digital credentials and wallets. Covers decentralized identifiers, verifiable credentials and presentations, digital wallets, public key directories, trusted lists, certificate revocation lists, regulation, and trust frameworks.
+
+* [LACChain Framework for Leveraging Tokenized Money for Retail Transactions, Cross-Border Payments, and Settlement and Clearing processes]() - Work in progress.
+
+## Infrastructure
+
+LACChain has enabled regional permissoned public blockchain infrastructures that are open and accessible for any entity in the world. The LACChain infrastructure includes networks build on [Hyperledger Besu technology (an open-source Ethereum client)](https://www.hyperledger.org/use/besu) and networks build on [EOSIO technology](https://eos.io/). In order to access the networks, it is necessary to follow the permissioning process. This process vary depending if the network to join is a Testnet, a Pro-Testnet, or a Mainnet.
+
+* [Permissioning process for LACChain Testnets and Protestnets](https://github.com/lacchain/wiki/blob/main/permissioning_process.md)
+* [Registration agreement for LACChain Testnets and Protestnets](https://github.com/lacchain/wiki/blob/main/registration_agreement.md)
+* [Terms and conditions for writer nodes in Testnets and Protesnets](https://github.com/lacchain/wiki/blob/main/terms_and_conditions_writer_testnets.md)
+* [Terms and conditions for validator and boot nodes in Testnets and Protesnest](https://github.com/lacchain/wiki/blob/main/terms_and_conditions_validator_testnets.md)  
+* Permissioning process for LACChain Mainnets - Work in progress
+* SLA for validator and boot nodes in Mainnets - Work in progress
+* SLA for writer nodes in Mainnets - Work in progress
+
+The technical team of LACChain verifies the registration agreement and process to permission the entity in the network. Once a node is permission, there is no hierarchy ammong entities. All the entities running nodes are equal, and play different roles according to the [Topology of the LACChain Networks](https://github.com/lacchain/wiki/blob/main/LACChain_topology.md). To know more about the governance go to Section [LACNet Underlying Orchestration Vehicle](##LACNet-Underlying-Orchestration-Vehicle).
+
+### Infrastructure using Hyperledger Besu Technology
+
+ The Networks available are the following:
+
+* [LACChain Mainnet Alfa powered by Hyperledger Besu](https://github.com/lacchain/besu-mainnet) - To be launched in 2022. Membership-based. Intended to serve any use case compliant with regulation that requires guarantees in terms of support, resilience, and liabilities.
+* [LACChain Protestnet powered by Hyperledger Besu](https://github.com/lacchain/besu-pro-testnet) - Open. Completely free (zero tx fees and no membership fee). Intended to serve any use case compliant with regulation under a best efforts support scenario.
+* [LACChain DAVID19 testnet powered by Hyperledger Besu](https://github.com/lacchain/besu-pro-testnet/tree/david19_network) - Open. Completely free (zero tx fees and zero membership costs). Intended to serve any use case compliant with regulation under a best efforts support scenario.
+
+Additionally, there are several open-source tools available:
+
+### Infrastructure using EOSIO Technology
+
+* [LACChain Testnet powered by EOSIO](https://github.com/lacchain/eosio-network) - Open. Completely free (zero tx fees and no membership fee). Intended to serve any use case compliant with regulation under a best efforts support scenario.
+
+## LACNet - Underlying Orchestration Vehicle
 
 ## Academy
 
@@ -46,22 +81,18 @@ You can also see current communities, entities, and events related to blockchain
 * [Events](https://www.lacchain.net/ecosystem)
 * [Projects](https://www.lacchain.net/use-cases)
 * [Bidding offerings](https://www.lacchain.net/use-cases)
-* [Investment opportunities](https://github.com/lacchain/wiki/edit/main/README.md)
+* [Investment opportunities](https://www.lacchain.net/entrepreneurship)
 
-## Frameworks
+## Contact
 
-LACChain Frameworks are focused on three areas: the blockchain layer
-The [Blockchain Framework]() - To be released on October 18th
-
-* [ID Framework]() - To be released on October 18th
-* 
-
-## Infrastructure
-
-## Tools
-
-## LACNet (the Underlying Orchestration Vehicle)
-
+LACChain is available through different channels, including website, social networks, and Github.
+ 
+* [LACChain Website](https://www.lacchain.net/home)
+* [LACChain Linkedin](https://github.com/lacchain)
+* [LACChain Twitter](https://twitter.com/lacchain?lang=en)
+* [LACChain Medium](https://lacchain.medium.com/)
+* [LACChain Vimeo](https://vimeo.com/lacchain)
+* [LACChain Github](https://github.com/lacchain)
 
 ## Introduction 
 
@@ -71,18 +102,7 @@ The [Blockchain Framework]() - To be released on October 18th
 
 This Section describes the LACChain network Git repositories. All the repositories of the LACChain Alliance are licensed with Apache license version 2.0. Repositories are classified into DLT (the blockchain layer), ID (the ID layer), and TM (the digital money layer).
 
-The different layers of the LACChain ecosystem are: 
-
-**LACChain DLT:** public-permissioned networks, open, decentralized, multipurpose, multi-community, scalable, regulated, with identification, and transaction fee free. 
-
-**LACChain ID:** self-sovereign identity, decentralized identifiers (DIDs), verifiable credentials (VCs), verifiable presentations, digital wallets, CAs, trust lists, regulation, data protection, trust frameworks.  
-
-**LACChain TM:** tokenized fiat money, minted by authorized financial institutions, regulatory compliant. KYC and AML process. E-money token standard.  
-
-The layers are built as the figure describes: 
-![alt text](https://github.com/lacchain/lacchain-id/blob/master/Internet_of_value.png "Internet of Value")
-
-### 2.1 LACChain DLT repositories 
+### LACChain Blockchain Layer Repositories 
 
 **Besu-Network** **-** [**https://github.com/lacchain/besu-network**](https://github.com/lacchain/besu-network)
 
@@ -184,7 +204,7 @@ Description: this repository is a fork from PegaSysEng/permissioning-smart-contr
 
 Description: this repository is created as part of the relationship between the LACChain Alliance and the Brazilian Development Bank - BNDES to deploy a Public-Permissioned Blockchain Network maintained by both parts in order to develop and execute a different type of projects.
 
-### 2.2 LACChain ID repositories
+### LACChain ID Repositories
 
 **LACChain DID Registry** **-** [**https://github.com/lacchain/lacchain-did-registry**](https://github.com/lacchain/lacchain-did-registry)
 
@@ -245,7 +265,7 @@ LACChain VC is a Proof-Of-Concept application that allow issuance and on-chain v
 
 Description: this repository contains the source code for the LACChain Hashing service that can hash any type of file, from applications to documents and media. Hashing a file results in a unique and irreversible identifier. If this identifier is registered in an immutable network, as a blockchain ledger, the owner of the file can prove at any time afterwards that the file was not modified. This hashing service signs the hash to guarantee that the file was hashed by itself and sends it to https://github.com/lacchain/credential-server to write it down in the LACChain blockchain network.
 
-### 2.3 LACChain TFM repositories
+### LACChain Tokenized Money Repositories
 
 **Citi API Proxy** **-** [**https://github.com/lacchain/citi-api-proxy**](https://github.com/lacchain/citi-api-proxy)
 
