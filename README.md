@@ -99,7 +99,7 @@ Additional open-source resources:
 LACChain Tokenized Money is the blockchain-based Tokenized Money layer developed by the LACChain Global Alliance. This layer is still at an early stage. The main pieces released on this layer are paper presenting the PoC accomplished by the Inter-American Development Bank and Citi Bank to make cross border payments between the US and the Caribbean using money tokenized in the LACChain Network and the code related to the development.
 
 * [Paper - Cross border payments with blockchain](https://publications.iadb.org/en/cross-border-payments-blockchain)
-* [Code - PoC between IDB and Citi on cross border payments](https://github.com/lacchain/wiki/blob/main/repository_index_id_layer.md)
+* [Code - PoC between IDB and Citi on cross border payments](https://github.com/lacchain/wiki/blob/main/poc_idb_citi_cross_border.md)
 
 ## LACNet - Underlying Orchestration Vehicle
 
