@@ -1,4 +1,6 @@
-# LACChain Tokenized Money Repositories
+# Repositories related to the PoC between IDB and Citi Bank for cross border payments
+
+This markdown contains the list of repositories with the code of the PoC between the Inter-American Development Bank and Citi to accomplish cross border payments from the US to the Caribbean using money tokenized in the LACChain Network. For for information read the [technical note](https://publications.iadb.org/en/cross-border-payments-blockchain).
 
 **Citi API Proxy** **-** [**https://github.com/lacchain/citi-api-proxy**](https://github.com/lacchain/citi-api-proxy)
 
