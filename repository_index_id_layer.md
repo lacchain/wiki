@@ -8,6 +8,18 @@ Description: this repository contains the Smart Contracts for LACChain DID metho
 
 Description: this repository contains an implementation of LACChain DID Method in NodeJS. It provides the necessary methods and functions to interact with a DID and resolve a DID Document without the need to directly call the smart contracts.
 
+**LACChain Verifiable Credentials On-Chain Verification** **-** [**https://github.com/lacchain/vc-contracts**](https://github.com/lacchain/vc-contracts)
+
+ Description: this repository contains the smart contracts based on EIP-712 and EIP-1812 for Structured Data Types and Verifiable Claims respectively, to perform the registration and verification process of Verifiable Credentials on-chain.
+ 
+ **LACChain On-Chain Public Key Directory** **-** [**https://github.com/lacchain/lacchain-pkd**](https://github.com/lacchain/lacchain-pkd)
+
+ Description: this repository is an implementation of Root-of-Trust proposal of LACChain ID Stack. The smart contracts helps to build a Root of Trust structure, by deploying a Public Key Directory (PKD) and a subset of Trusted List (TL) recursively to establish a hierarchy of entities.
+ 
+ **LACChain Services Authentication** **-** [**https://github.com/lacchain/service-authentication**](https://github.com/lacchain/service-authentication)
+
+ Description: this repository is the LACChain service authentication methods that are based on the use of a DID as an identity verification mechanism, using the public keys of a DID document to prove the identity of the entity that is in control of that DID.
+
 **LACChain Mailbox** **-** [**https://github.com/lacchain/mailbox**](https://github.com/lacchain/mailbox)
 
 Description: this repository contains the LACChain Mailbox, which is a secure and private system for the exchange of messages, VCs, and VPs based on the DIDComm Messaging Specification. It is a controlled by a centralized server that allows entities identified by a DID to send and receive messages.
