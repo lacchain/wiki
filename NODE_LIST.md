@@ -62,8 +62,7 @@
 |  58   | Finweg S.A. | 648529 | Central | Writer | Antonio Sotomayor | Antonio Sotomayor | 0x30fe901d897fe55858c97550e78d535fa6ac09b965dd3cbb15d66b83f3920b234692069b81109305b92c258ce0025b5139fe0072fc7b811edd86ca31d3fe49b3
 |  59   | FONDEPES | 648529 | Central | Writer | Jorge Eduardo Carhuay Natis | Meliton Ricardod Otoya Veastegui  | 0xb553742e09990a4ea3c65381183f259e6ef877a7db54ea44f7dae91899eacffb00388210b30cc4ac0d92681b0224c25898c5d01476d3f9ce813e906f76ec93e7
 |  60   | Go Elevate | 648529 | Central | Writer | Ruben Ghio | Ruben Ghio | 0xf46d9a802111ed9d4d4ed3f70276a13e5f9d3b9703c5ea2c5f15c19070ca6d06d472e78efa0ceccbbeb1876ed6581cd9fc5f9142158f10b33e8f7f276bf5dbbc
-|  61   | Humber Argentina | 648529 | Central | Writer |  Leandro Germán Montibelli | Juan José
-Debuchy | 0x9e42b43efd4e0953f3ff7c7ac7b8975f35f08d2cd25c1795995606ad282a7749036f12303f60c89782eb46b0e0b4ca986773d64cc3363b19c2385202d4187fdf
+|  61   | Humber Argentina | 648529 | Central | Writer |  Leandro Germán Montibelli | Juan José Debuchy | 0x9e42b43efd4e0953f3ff7c7ac7b8975f35f08d2cd25c1795995606ad282a7749036f12303f60c89782eb46b0e0b4ca986773d64cc3363b19c2385202d4187fdf
 |  62   | IDB | 648529 | Central | Bootnode | Adrian Pareja | Marcos Allende López | 0xfe50d1c3d1ebbc37cdfb54f6c767e3510a415b91e60c1a6c495b9f91bbf2eb74011cfb0e60547d90dc189a3f74703e847bd8daff93a58c494767bc7a6b94762d
 |  63   | IDB | 648529 | Central | Bootnode | Adrian Pareja | Marcos Allende López | 0x140626be59e4f2c57ab9787481dd571bc8ed87764a5b035fa33f38f746d770484cfc0eca0dc5d00c7bfb18caa057477462f7af216a84bd9faea68e446e4ed1c7
 |  64   | IDB | 648529 | Central | Bootnode | Adrian Pareja | Marcos Allende López | 0xb97f1b94e3a5e78de9a6318bfaf5e97eda84aeda20b5407c3694c39e79cfc8cb7088bb92f73635f7c64da9ee4a347212b61a3070c584946b9dae0a37e4af8009
