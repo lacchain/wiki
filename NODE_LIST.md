@@ -141,7 +141,7 @@
 |  137   | RedCLARA | 648541 | Mainnet | Validator | Edgar Castillo | Edgar Castillo | 0x76147831720d9a3d61e6cf31d03e38eba7bd46832c0691e9c1dd219c674acf738f1a00b9fea871f63d546686954a8ea6726fdbbe7a840d74ab2f774e501e6fa3
 |  138   | RedCLARA | 648541 | Mainnet | Validator | Edgar Castillo | Edgar Castillo | 0x50053bb4de26e2c0ea733e450c3d4919579e7e131adcc6eeb80f006022148c10543c219a9262689aa1cc45d72c472ab7e0a0d056d398ba297fa3402ce1239930
 |  139   | RedCLARA | 648541 | Mainnet | Validator | Thiago Moreira | Thiago Moreira | 0x92e2eadcf4720cc7f4c14424cb6af160452606a85278ef4e3d780cfd1cfe475a88db78d8f0cab50552f289ebfbfcdbc33a30b066c098042a1d704cc3133ff6a7
-|  140   | RedCLARA | 648541 | Mainnet | Bootnode | Marco Texeira | Marco Texeira | 0x819581f145d76c6be9d663053651a095b520a1d5d41fe92084e76f95da076de8d90ddfc9624f776188aeba0ed46e42670fddd95a934d839ccb7c1ba0019ab9a0
+|  140   | RedCLARA | 648541 | Mainnet | Validator | Marco Texeira | Marco Texeira | 0x819581f145d76c6be9d663053651a095b520a1d5d41fe92084e76f95da076de8d90ddfc9624f776188aeba0ed46e42670fddd95a934d839ccb7c1ba0019ab9a0
 |  141   | RedCLARA | 648541 | Mainnet | Bootnode | Marco Texeira | Marco Texeira | 0xed764e22cd77bbf597d450bcb1378ff2164ee7b4a47a386e3c3cf1c4d60c8898d20d8c861652d2d4c595997d0a0a36d4a10e69ea449d15e1cb31ea3f48cb092f
 |  142   | LACNIC | 648541 | Mainnet | Validator | Juan Carlos Alonso | Juan Carlos Alonso | 0xac1f7c028bd95c1c35d56fe8490b376c00bb90ac89c77a9ff8da0d3bfb06e100352e63bec71cf4c1ab6ed38173ba233434f35c91a2c83e090023e22dbbd18ca4
 |  143   | LACNIC | 648541 | Mainnet | Validator | Juan Carlos Alonso | Juan Carlos Alonso | 0x4d16f4d9c0b08528eeabb13d550abd6ddada5b377941e2f52a4fad6c1570efc6ba773f36038176f1289f608c1f9795a4a380f7192d5e220c3e1179da6e5b0116
