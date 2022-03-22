@@ -136,11 +136,7 @@
 |  132   | Prodemge | 648629 | Pro-Testnet RBB | Writer | Gladstone M. Arantes | João Alexandre dos Santos Lopes | 0xf5f66a46438f74f1515f3475e09db0e6cc0335351fa0e081f6d89dc355ec6837dff53218a0bd2486c813d457c610936bbd91e1f00f36a9b28408dd37fb9c2b8e
 |  133   | Prodemge | 648629 | Pro-Testnet RBB | Validator | Gladstone M. Arantes | João Alexandre dos Santos Lopes | 0x58be80c4ab4cc170bb28f48783a91d490c9af1ce36c0371c18e67184b6713f18065f87169fe37dbb1ac13c2de9c2a30afd34acdbfa9d7a6826d17dfdfb52aa2c
 |  134   | Quant Network | 648529 | Pro-Testnet | Writer | Peter Marirosans | Gilbert Verdian | 0x4bcbeab8fefe6c62f81b11011a1f30105fa3922fec59c1d9222dbd4b5a225773a29810296202cb7ba4abda28a51df9c29d22978c63c91debf37281107f6da0e4
-
 |  135   | Quant Network | 648529 | Pro-Testnet | Writer | Peter Marirosans | Gilbert Verdian | 0xdc1817791c0042b5888a7e4f03fa6479be7298b52e0da4c3da2a3c4b8b588786d369cdbec0346ea2464088e5b74b023a8ee46ee74ad65de21e518664ad3d8740
-
-
-
 |  136   | Quantic Vision (Stamping.io Panama) | 648529 | Pro-Testnet | Writer | Luis Bethancourt | Eric Jethmal | 0x2ca1d413d5ebc055e0f4ff6917303fd101d5f0f62a9938e9c88545abf685a341dae92251fb7694d7f6793d039c7f2c15115145332767406eefea105b9a6cc5da
 |  137   | RedCLARA | 648541 | Mainnet | Validator | Edgar Castillo | Edgar Castillo | 0x76147831720d9a3d61e6cf31d03e38eba7bd46832c0691e9c1dd219c674acf738f1a00b9fea871f63d546686954a8ea6726fdbbe7a840d74ab2f774e501e6fa3
 |  138   | RedCLARA | 648541 | Mainnet | Validator | Edgar Castillo | Edgar Castillo | 0x50053bb4de26e2c0ea733e450c3d4919579e7e131adcc6eeb80f006022148c10543c219a9262689aa1cc45d72c472ab7e0a0d056d398ba297fa3402ce1239930
