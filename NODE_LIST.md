@@ -38,9 +38,7 @@
 |  34   | DECODES | 648529 | Pro-Testnet | Writer | Lucia Kusel | Javier Madariaga | 0xa4f5e83459c1fb2b6bdefc03f7b0290d4c14f21c0e8bd4652e9d579002edaf4fc438b0a0eabf6e9c0af578e6d00b048be3279858fe34535033a81de0e8078baf
 |  35   | eBusiness Solutions | 648529 | Pro-Testnet | Writer | Julio M Cruz | Julio M Cruz | 0x793fce4a8bd6c19ef6f8e19626f9e2e745a46da47327eb368f9096d63d52feb5b4d64465469123cfa4469249e175a57adc2314c49e49b4a8f5266f8559393688
 |  36   | E-customs | 648529 | Pro-Testnet | Writer | Santiago Rodriguez | Marcos Icardo Gonzalez | 0x7af80e524abaa04784e39a54c0bec4a2bf6d78870e974e21485d538fda227bacb2430a0f2a8af5d33b2819efb10c8e5afcf71ebda9338375348bc44e89c8375f
-
 |  37   | E-customs | 648530 | Testnet-David19 | Writer | Santiago Rodriguez | Marcos Icardo Gonzalez | 0xae021c5f3ad7a45bd93d7bde1953c7e24efecb5b3a0d6a12472ca17a77d0b78cfcbbddbab88a7cbfc0ad4849707c10507f00d1cfa2fa1dc7cfdf26e4a0cd813c
-
 |  38   | E-strategia Publica Brasil | 648529 | Pro-Testnet | Writer | Gerson Francisco Deroza | Maria Florencia Ferrer | 0x439f6472916b1563f00ffe9a628efa2ccc5f3a28143b3ba07eb6f2a6d5a3b2f2fb8ed39215d3cf3ef5fdf056cdfcc765bd739972fd8f0435190fe68ae4f96dcb
 |  39   | Everis | 648529 | Pro-Testnet | Bootnode | Edgar Espinosa Rivas | Juan Jose Domingo Miranda Del Solar | 0x9100f954583d3d74528165f07d842ce544139d9ad4bc3f2cf06abe6fb4cf459201eb06d38120bf21f40f39107ba37bc7a1e1142728bd21c33b6457d25a7b8f8d
 |  40   | Everis | 648529 | Pro-Testnet | Validator | Edgar Espinosa Rivas | Juan Jose Domingo Miranda Del Solar | 0x5f634f6fc0a87c4efb091fae206094f0dd3d4b077e2dc8f19b64f6a6d785828117c9423d4848f80f4efeab88b5217df0d845641ff371688b67a285985795f309
