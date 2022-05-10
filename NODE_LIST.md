@@ -158,8 +158,7 @@
 |  154   | TCS Company | 648529 | Pro-Testnet | Writer | Saurabh Nagesh | Saurabh Nagesh | 0x858b54ddb2e573111af4111f3cfa54498685f046d24dfbe79060327c7ed8d81b2a8703b61489ffd82f2704b6b8201e9d7d9283dc010cd4df9c0e2c0904c39855
 |  155   | TCS Company | 648530 | Testnet-David19 | Writer | Saurabh Nagesh | Saurabh Nagesh | 0x66d239ff63cd273576420589c445f69fc3595a11b2d2e13390ad33f5873e2a54847a3746720f82986b48ef9ce2fb421991892fbe0807a342fcfc924572d67c41
 |  156   | TCS Company | 648530 | Testnet-David19 | Writer | Saurabh Nagesh | Saurabh Nagesh | 0x66d239ff63cd273576420589c445f69fc3595a11b2d2e13390ad33f5873e2a54847a3746720f82986b48ef9ce2fb421991892fbe0807a342fcfc924572d67c41
-|  157   | Telefonica | 648529 | Pro-Testnet | Writer | lberto García |  José Luis Núñez | 
-0xd5b621ef99cb42a40811afb3a89fd183e433890ae86ced74856d4c71416109d102639bbd3b40b6f554d1baf6e76001345b4d163c2b7feae0daefac0e554046d5
+|  157   | Telefonica | 648529 | Pro-Testnet | Writer | lberto García |  José Luis Núñez | 0xd5b621ef99cb42a40811afb3a89fd183e433890ae86ced74856d4c71416109d102639bbd3b40b6f554d1baf6e76001345b4d163c2b7feae0daefac0e554046d5
 |  158   | Tribalyte Technologies S.L. | 648529 | Pro-Testnet | Writer | Ronny Demera | Rafael Barriuso | 0x2e84e50c18ccc4e7fd745aa9891e251a03d474f31ceed57c98dfc0280b7be5221a300a5887bfe417e6772a15f0d34510011332aeb920bdc632a884dceb0c5529
 |  159   | Transgenia | 648529 | Pro-Testnet | Writer | Osvaldo Mora Abonce | Efrain Carreon Ortiz | 0x9a1ff89dad6f310da3a92a94356dec77cf6aae072cf2f114964f32e9886649fca26633c2fb95512ec5315f9a108e8dd48090f28e82ba20b4ad2483f074ee2492
 |  160   | Vlinder Inc. | 648529 | Pro-Testnet | Writer | Kaliraj Subra Manian | Malini Srinivasan | 0xdbecec589da50b42ddd42b7d6e29c4cb2e0f878bb3afb8b0067bcb726fa251b5613e0478d3a812a5b82743c8c0bd2b8fdf57c8d609fb3adc333119b02d4a2f1e
