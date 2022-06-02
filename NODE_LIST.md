@@ -164,7 +164,8 @@
 |  160   | Tribalyte Technologies S.L. | 648529 | Pro-Testnet | Writer | Ronny Demera | Rafael Barriuso | 0x2e84e50c18ccc4e7fd745aa9891e251a03d474f31ceed57c98dfc0280b7be5221a300a5887bfe417e6772a15f0d34510011332aeb920bdc632a884dceb0c5529
 |  161   | Transgenia | 648529 | Pro-Testnet | Writer | Osvaldo Mora Abonce | Efrain Carreon Ortiz | 0x9a1ff89dad6f310da3a92a94356dec77cf6aae072cf2f114964f32e9886649fca26633c2fb95512ec5315f9a108e8dd48090f28e82ba20b4ad2483f074ee2492
 |  162   | Transgenia | 648529 | Pro-Testnet | Writer | Osvaldo Mora Abonce | Efrain Carreon Ortiz | 0x8110366559153ed802b939a705c76b7f95d41217d9d3b67f10fb29453852b515461abd35adc593ac547f51a9ceeef2feb015061758e6a3802fc14dcef06f7a47
-|  163   | Universidad de Guadalajara | 648529 | Pro-Testnet | Writer | Maria de la Luz Caro Varela | Maria de la Luz Caro Varela | 0xa9865f676040a3b355b189449b49df4941c0769406edbbb04a46cc2ea51b696301a5869dff298b25e28790ef7317a5dc1a34cbeeb1886280cf7de483ed552326
+|  163   | Universidad de Guadalajara | 648529 | Pro-Testnet | Writer | Maria de la Luz Caro Varela | Maria de la Luz Caro Varela | 
+0xccbb8b05bf805e39c7ce4b86ae201a9e6428055a95b737f39e0b6d097fed70dd48e1623bb23a119e56b2db75c6f629b3d2898097a0c037dd39f99f5265a4ea10
 |  164   | Vlinder Inc. | 648529 | Pro-Testnet | Writer | Kaliraj Subra Manian | Malini Srinivasan | 0xdbecec589da50b42ddd42b7d6e29c4cb2e0f878bb3afb8b0067bcb726fa251b5613e0478d3a812a5b82743c8c0bd2b8fdf57c8d609fb3adc333119b02d4a2f1e
 |  165   | VU Security | 648529 | Pro-Testnet | Writer | José Pulgar Santa María | Alejandro Fingerman | 0xe4a8d7ebd2af9e927998188357e572430f1a4dd3765a434a9d12c18cb73390d8e907b8733f337f970351644560c46c2bd96bf87ff586757c184433fbf63eb4ff
 |  166   | Wiagro | 648529 | Pro-Testnet | Writer | Andres Ulises Mikelsen | Martin Cordasco | 0x73c231f6f0edeb317180f80f5b5fa82ed0f4ae6649e3c6b50b570c3414d819107d93ddc19ac0b5051fa11efe57b1982447255b354100bd15f2fa69e1b917dab2
