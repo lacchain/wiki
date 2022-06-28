@@ -135,8 +135,7 @@
 |  131   | OSCE | 648529 | Pro-Testnet | Writer | Javier Arturo Cavero Goyeneche | Victor Iván Melgar Davila | 0x55296094e38b96070df4cc64b50dc626e7f000f7643a04d5eaab5173c069848c0xf76c12bcb2355f57a34ed8f14afa9a3c1d4f6e56a2550a57e2737e544a644b24
 |  132   | OSCE | 648529 | Pro-Testnet | Writer | Javier Arturo Cavero Goyeneche | Victor Iván Melgar Davila | 0x38d190f7685c2ceb8bd3bba20c590183ccdba0370278da868cef31c21870374e0x3915eacfa2314747bf7bc5bce1516eebc70a2a375f75431ef95925d0789daa5b
 |  133   | OSCity | 648529 | Pro-Testnet | Writer | Jesús Cepeda | Jesús Del Bosque | 0xbc7f06460b13cf34ab869efaf72a41ffc8751ce3afdaa9b157972433ab7674ab50bd82da968eefdc4a9db1cb5b8375e42b584626e846ee58d45048a7fdbb2b11
-|  134   | Pago Chinchin | 648529 | Pro-Testnet | Writer | Jesús Cepeda | Jesús Del Bosque | 
-0x40f8d9ee7cfb6657adef570788481889e9d5c5e02aade2e3856ed4cf5572b046bf22c2c491520a1c7b67d60bf749a0112ff3dd9f30db97e0e5914f7b3720e819
+|  134   | Pago Chinchin | 648529 | Pro-Testnet | Writer | Jesús Cepeda | Jesús Del Bosque | 0x40f8d9ee7cfb6657adef570788481889e9d5c5e02aade2e3856ed4cf5572b046bf22c2c491520a1c7b67d60bf749a0112ff3dd9f30db97e0e5914f7b3720e819
 |  135   | Pegasys | 648529 | Pro-Testnet | Writer | Joshua Fernandes | Silvana Rodriguez | 0x35f10294c566e50998fed8d63fb9130eeec8e2464c45777f8d8fde0998f343ee152bb3dcf8f220a21efbdbaf6054a1d1c68324e51662b846ed7b092362366a6d
 |  136   | Peru Compras | 648529 | Pro-Testnet | Writer | Eduardo Huamani Garcia | Jesus De Souza Castro | 0x431bbf5ce917d4f5bfe1a6444444998a6f38d950b9175efefcc8a424cec7ac9d3f0214287a26fd969adcdb4a4617aa9ea859f62282c708802821ca1188774782
 |  137   | Planisys | 648529 | Pro-Testnet | Writer | Carlos Horowicz | Carlos Horowicz | 0x5db9a9089653b81622c31fb5e5edc3fd90b506f3ca6345a9abcd8e1c9d69d742926ce3009ff369f325e7af9f26eadfeae12526c044a83abc69faf75f698764c8
