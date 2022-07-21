@@ -18,8 +18,7 @@
 |  14   | ATIXLABS SRL | 648529 | Pro-Testnet | Writer | Federico Sawady | Florencia Torrelli | 0x06a3c766603a902df4d54ae62694b31ec79ab7dda84085a05bbe142649ec978a19cf065181cb75443c1a91999f739b541c06f6198e884427ecdc20a537f3a954
 |  15   | ATIXLABS SRL | 648529 | Pro-Testnet | Writer | Federico Sawady | Florencia Torrelli | 0x630ee6a7768a8391b512ba268f2e480609e3a4c3a0942d6eff59a9ab794a09040x7da09e42cae76be2af248bbd0b96711b555a7bc766e694bffeb6931adbfc570d
 |  16   | ATIXLABS SRL | 648529 | Pro-Testnet | Writer | Federico Sawady | Florencia Torrelli | 0xf0c76e7cd7e8822dd2e80fbecefeb7bef8cbc0c8ee69343725eca605026097db0xe2f9c86265ccf2e5940e40bbd3dbe9c18d3ff55963656aa02a220a02bb787801
-|  17   | AUNA Blockchain for Business | 648629 | Pro-Testnet | Writer | Marco Alarcón | Jaime Pradenas | 
-0x9a0106953faa0db26fe7df580278218f693d96721b6b407809c515a9bd843b5a7882281b33666a91f74b2666e30143fe1d333f022faf6dd60b69e5abe6544993
+|  17   | AUNA Blockchain for Business | 648629 | Pro-Testnet | Writer | Marco Alarcón | Jaime Pradenas | 0x9a0106953faa0db26fe7df580278218f693d96721b6b407809c515a9bd843b5a7882281b33666a91f74b2666e30143fe1d333f022faf6dd60b69e5abe6544993
 |  18   | BlockFactory | 648529 | Pro-Testnet | Writer | Fabian Chiera | Walter Alvarez Sack | 0x8635fd0a08fd9721ae7f6bd46df5e6caaec5cb9862b0fa34ab6c6a2c744032050x496e12337b0cf5dbc091dfc104df9317baa67cd9035a2d1bc6698b62fe7081f2
 |  19   | Bloxtek | 648529 | Pro-Testnet | Writer | Tania Barrón | Victor Aldaz | 0x1adcc24e2202f55699aa37c9bfd282f29e5334cb2655bdc1617191078c2042654ba779f73ceafd60c9d6943ef3728b64163347fa197d2cbb7417e9901bdf3fcc
 |  20   | Bloxtek | 648541 | Mainnet | Writer | Tania Barrón | Victor Aldaz | 2cb65bbe1963f1df511bc89f2cad669d643da14b4a269a4efa8495401022d13fe8cbfdfd7907f34ec5021bcf8952664ce79dcec55a578abd5a17cb967370e569
